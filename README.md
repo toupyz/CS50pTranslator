@@ -1,3 +1,3 @@
-Project Name: Time Table Quiz
+Project Name: Finance Tracker
 URL of video/demo: 
-Description: Uses the random library to generate 1-12 times tables. The project tracks your score and updates after ever correct answer and saves it in a text file. You can exit by 'Ctrl_C' and there is input validation to ensure only integers are accepted.
+Description: Can enter expenses into a CSV file and remove it. Can view your expenses in a graph using matplotlib
